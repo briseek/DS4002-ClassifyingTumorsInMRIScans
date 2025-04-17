@@ -48,12 +48,10 @@ Developed and tested on Mac, but should work on Windows and Linux with appropria
  │   ├── VGG19 CNN model performance.png
  │   ├── brain_tumor_example.png
  │   ├── dist_brain_tumors.png
- │   ├── image_description
  │
  ├── 📂 SCRIPTS/  
  │   ├── 01_MATLAB_mat_to_jpg_conversion.m
  │   ├── 02_brain_tumor_classification.ipynb
- │   ├── script_description
  │  
  ├── LICENSE
  ├── README.md   
