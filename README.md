@@ -19,10 +19,7 @@ Developed and tested on Mac, but should work on Windows and Linux with appropria
 📂 S&P-500-Times-Series-Analysis  
  ├── 📂 data/  
  ├──── 📂 INITIAL/
- │   │   ├── brainTumorDataPublic_1-766
- │   │   ├── brainTumorDataPublic_1533-2298
- │   │   ├── brainTumorDataPublic_2299-3064
- │   │   ├── brainTumorDataPublic_767-1532
+ │   │   ├── MAT Images
  ├──── 📂 FINAL/
  │   │   ├── JPG_Images
  │   │ MRI Scans Data Appendix.pdf
