@@ -21,7 +21,7 @@ Developed and tested on Mac, but should work on Windows and Linux with appropria
  ├──── 📂 INITIAL/
  │   │   ├── MAT Images
  ├──── 📂 FINAL/
- │   │   ├── JPG_Images
+ │   │   ├── JPG Images
  │   │ MRI Scans Data Appendix.pdf
  │
  ├── 📂 SCRIPTS/  
