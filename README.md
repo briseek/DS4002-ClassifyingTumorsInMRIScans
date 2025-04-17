@@ -1,4 +1,4 @@
-# lassifying Tumors In MRI Scans
+# Classifying Tumors In MRI Scans
 
 ## Repository Contents
 This repository contains all of the necessary files and scripts for .... The analysis aims to determine whether different modeling techniques, ... , can ...
