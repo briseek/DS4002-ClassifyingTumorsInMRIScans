@@ -1,7 +1,7 @@
 # Classifying Tumors In MRI Scans
 
 ## Repository Contents
-This repository contains all of the necessary files and scripts for .... The analysis aims to determine whether different modeling techniques, ... , can ...
+This repository contains all of the necessary files and scripts for classifying 3 types of tumors from 3064 MRI scans. The analysis aims to determine whether different modeling techniques, CNN and SVM , can result in a highly accurate classification.
 
 ## 1. Software and Platform
 
@@ -9,9 +9,6 @@ This repository contains all of the necessary files and scripts for .... The ana
 - **R**: For data preprocessing, model assumption testing, developing and evaluating the ...
 
 ### R Packages
-- `tidyverse` – Data cleaning and data filtering
-- `dplyr` – Data cleaning and data filtering
-- `kableExtra` – Assistance for table layouts 
 
 ### Platform Compatibility
 Developed and tested on Mac, but should work on Windows and Linux with appropriate installations.
@@ -31,10 +28,11 @@ Developed and tested on Mac, but should work on Windows and Linux with appropria
  │   │ MRI Scans Data Appendix.pdf
  │
  ├── 📂 SCRIPTS/  
- │   ├── 01_........Rmd
+ │   ├── 01_MATLAB_mat_to_jpg_conversion.m
+ │   ├── 02_brain_tumor_classification.ipynb
  │  
  ├── 📂 OUTPUT/  
- │   ├── exploratory_plots.jpeg
+ │   ├── exploratory_plots.png
  │  
  ├── README.md   
 ```
